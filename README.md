@@ -6,8 +6,8 @@ MDX is a major sound format of Sharp X68000 in the 1990s.
 
 ## Usage
 
+```shell
 mdx2vgm MDX_FILE.MDX
-
 ```
 
 ## Build
